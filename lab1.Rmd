@@ -93,24 +93,12 @@ Jacob Luber
 Jiaqi Xie
 Peter Shen
 Jiaqi Xie  
-<<<<<<< HEAD
 David Rubins
 Undina Gisladottir
-<<<<<<< HEAD
-=======
 
-
-
-
-
-
-
-
-
-
+David Rubins
+Undina Gisladottir
 Jenna Collier
-
->>>>>>> Jenna
 
 
 
@@ -128,3 +116,5 @@ Harry Burke
 Nabil Aounallah
 
 >>>>>>> f1c186f52453b3d0724271cfd10de47bb364ce4f
+=======
+>>>>>>> Jenna
