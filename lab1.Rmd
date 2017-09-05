@@ -89,7 +89,7 @@ Anything below "<<<<<<< HEAD" but above "=======" are changes made to the master
 
 ## I Completed This Lab
 <<<<<<< HEAD
-HanxiongZhang
+
 =======
 HanxiongZhang
 Sida Liao  
@@ -131,4 +131,4 @@ Nghia Millard
 Salem Karani  
 Natalia Reim
 
->>>>>>> master
+>>>>>>> Hanxiong_Zhang
