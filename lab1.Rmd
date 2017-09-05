@@ -88,6 +88,7 @@ You will see something that looks like the below text at one or more points in t
 Anything below "<<<<<<< HEAD" but above "=======" are changes made to the master branch. Anything below "=======" but above ">>>>>>> [name_of_your_new_branch]" are changes made to your branch that conflict with the changes to master branch. Delete the lines "=======","<<<<<<< HEAD", and ">>>>>>> [name_of_your_new_branch]" to add both changes, commit the file, then push. Go to github.com to verify that this worked and your name is displaying in the .Rmd file on the master branch. If not, try again!
 
 ## I Completed This Lab
+
 Sida Liao  
 Jacob Luber  
 Marsha Wibowo  
@@ -107,3 +108,5 @@ Andrew Goldfarb
 Jenna Collier  
 Nghia Millard  
 Salem Karani  
+Natalia Reim
+
