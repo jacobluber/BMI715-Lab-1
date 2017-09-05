@@ -89,11 +89,8 @@ Anything below "<<<<<<< HEAD" but above "=======" are changes made to the master
 
 ## I Completed This Lab
 <<<<<<< HEAD
-
-=======
-
 HanxiongZhang
-
+=======
 Sida Liao  
 Jacob Luber  
 Marsha Wibowo  
