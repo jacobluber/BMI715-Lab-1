@@ -92,19 +92,10 @@ Anything below "<<<<<<< HEAD" but above "=======" are changes made to the master
 
 ## I Completed This Lab
 Jacob Luber  
+Jiaqi Xie
+Peter Shen
 Jiaqi Xie  
 
-
-
-
-
-
-
-
-
-
+David Rubins
+Undina Gisladottir
 Jenna Collier
-
-
-
-
